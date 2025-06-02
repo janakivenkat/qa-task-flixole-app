@@ -23,7 +23,7 @@ Before running the tests, make sure you have the following installed:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/janakivenkat/qataskflixoleapp.git
+git clone https://github.com/janakivenkat/qa-task-flixole-app.git
 ```
 
 2. Navigate to the project directory:
