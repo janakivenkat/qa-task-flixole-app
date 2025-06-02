@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","3640","Login - Invalid user cannot login and throw error","chromium","Mon Jun 02 07:26:51 CEST 2025","passed","Mon Jun 02 07:26:55 CEST 2025","","web-ui\login.spec.ts","",""
+"","3540","Login - Edge case to login successfully with whitespace for email and password","chromium","Mon Jun 02 07:26:55 CEST 2025","passed","Mon Jun 02 07:26:58 CEST 2025","","web-ui\login.spec.ts","",""
+"","4375","Login - valid user can log in successfully","chromium","Mon Jun 02 07:26:47 CEST 2025","passed","Mon Jun 02 07:26:51 CEST 2025","","web-ui\login.spec.ts","",""
+"","466","Login API - Verify Successful login & Payload Structure","chromium","Mon Jun 02 07:29:03 CEST 2025","passed","Mon Jun 02 07:29:04 CEST 2025","","api-test\LoginGetApiStructure.spec.ts","",""
