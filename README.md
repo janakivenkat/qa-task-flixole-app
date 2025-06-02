@@ -110,6 +110,10 @@ allure generate ./allure-results --clean -o ./allure-report
 allure open ./allure-report
 
 ```
+sample 
+
+![Allure report All 4](https://github.com/user-attachments/assets/5d858ef0-6ee6-46cd-b838-9184e98782e8)
+
 
 ## GitHub Actions CI Setup
 The GitHub Actions workflow (.github/workflows/ci.yml) is configured to:
